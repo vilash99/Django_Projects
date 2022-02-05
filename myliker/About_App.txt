@@ -1,0 +1,8 @@
+This app show all categories, likes and dislikes form database in table format.
+
+It has two buttons:
+1. Like, 2. Dislike
+
+After clicking Like, like counter for selected category is increased by 1.
+
+It does with Ajax, flicker free.
